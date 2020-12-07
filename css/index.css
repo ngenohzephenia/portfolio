@@ -1,0 +1,27 @@
+body{
+    margin: 100px;
+}
+
+.img{
+    float: left;
+    border-radius: 50%;
+}
+.container{
+    background-color: darkmagenta;
+}
+    
+
+span{
+    color: brown;
+
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center ;
+    
+}
